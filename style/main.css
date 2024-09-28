@@ -805,7 +805,3 @@ main{
   grid-column: 1 / span 2;
   grid-row: 2;
 }
-
-.back{
-  background: rgba(255, 255, 255, 0.3);
-}
